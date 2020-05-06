@@ -2,4 +2,3 @@ David Guetta & MORTEN / Make It To Heaven (with Raye) [Rework] - Single / Make I
 David Guetta & MORTEN / Make It To Heaven (with Raye) [Rework] - Single / Make It To Heaven (with Raye) [Rework] / 2020-01-17T08:00:00Z / Dance
 Jay Sean / Need to Know - Single / Need to Know / 2018-12-21T08:00:00Z / R&B и соул
 David Guetta & MORTEN / Never Be Alone (feat. Aloe Blacc) - Single / Never Be Alone (feat. Aloe Blacc) / 2019-07-19T00:00:00Z / Dance
-URI2 = mongodb+srv://beats:beats1234@cluster0-3gssg.mongodb.net/test?retryWrites=true&w=majority
